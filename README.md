@@ -1,7 +1,3 @@
-"# personal_website" 
-"# personal_website" 
-"# personal_website" 
-"# personal_website" 
 ## BIO
 
 Hi, I am Yoga! I am a sophomore currently majoring in Actuarial Science at the University of Illinois. Fun fact, I am from Malaysia! If you are not sure where exactly that is, here is a map with my home country marked:
